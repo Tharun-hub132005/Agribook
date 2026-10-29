@@ -1,0 +1,6 @@
+{
+  "name": "Agribook",
+  "description": "Multilingual farming social network connecting agricultural communities with crop advice, posts, discussions, and networking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
